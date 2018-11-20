@@ -18,7 +18,9 @@
 ### webpack/babel
 - [webpack中文 ⭐️⭐️⭐️⭐️⭐️](https://webpack.docschina.org)
 - [babel官网 ⭐️⭐️⭐️⭐️⭐️](https://babeljs.io/)
-
+- [知乎babel ⭐️⭐️⭐️⭐️⭐️](https://www.zhihu.com/topic/20021403/hot)
+- [Babel 手册](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md)
+- [Babel 内部原理分析](https://octman.com/blog/2016-08-27-babel-notes/)
 - [细说 webpack 之流程篇](http://taobaofed.org/blog/2016/09/09/webpack-flow/)
 - [contributors-guide](https://medium.com/webpack/contributors-guide/home)
 - [astexplorer](https://astexplorer.net/)
@@ -26,13 +28,19 @@
 - [Webpack 源码解析](https://github.com/lihongxun945/diving-into-webpack)
 - [Babel 手册](https://github.com/jamiebuilds/babel-handbook/tree/master/translations/zh-Hans)
 - [babael插件编写](https://www.cnblogs.com/chyingp/p/how-to-write-a-babel-plugin.html)
-- [diving-into-webpack](https://github.com/lihongxun945/diving-into-webpack)
+- [一些好的loader](https://github.com/lihongxun945/diving-into-webpack)
 
 
 -------
 
 ### puppeteer
-
+- [puppeteer 中文](https://zhaoqize.github.io/puppeteer-api-zh_CN/#/?id=%E6%A6%82%E8%BF%B0)
+- [an answer to server-side rendering JS sites](https://developers.google.com/web/tools/puppeteer/articles/ssr)
+- [使用Puppeteer完成一次复杂的爬虫](https://zhuanlan.zhihu.com/p/35758104)
+- [puppeteer-examples](https://github.com/makelove/puppeteer-examples)
+- [开始使用GitLab CI/CD](https://segmentfault.com/a/1190000012989919)
+- [Chrome 远程调试协议不完全指南](https://syang2forever.github.io/2018/01/30/Chrome%20%E8%BF%9C%E7%A8%8B%E8%B0%83%E8%AF%95%E5%8D%8F%E8%AE%AE%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97/)
+- [从零开始编写一个babel插件](https://juejin.im/post/5a17d51851882531b15b2dfc#heading-6)
 -------
 ### docker
 
