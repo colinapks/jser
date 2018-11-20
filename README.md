@@ -1,26 +1,32 @@
-## javascript 基础知识
+## javascript 知识备忘录
 ### 正则表达式
 
 - [强烈推荐老姚的正则表达式 ⭐️⭐️⭐️⭐️⭐️](https://juejin.im/post/5965943ff265da6c30653879)
 -------
 
 ### 异步处理能力
-- [谷歌开发者文档-promise](https://developers.google.com/web/fundamentals/primers/promises?hl=zh-cn)
-- [「译」更快的 async 函数和 promises](https://juejin.im/post/5beea5f5f265da61590b40cd?utm_source=gold_browser_extension)
+- [谷歌开发者文档-promise ⭐️⭐️⭐️⭐️⭐️](https://developers.google.com/web/fundamentals/primers/promises?hl=zh-cn)
+- [更快的 async 函数和 promises](https://juejin.im/post/5beea5f5f265da61590b40cd?utm_source=gold_browser_extension)
 
 -------
 
 ### EventLoop
 - [JavaScript 运行机制详解：再谈Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
-- [Macrotask 与 Microtask 核心概念](http://js.walfud.com/macrotask-microtask/)
-- [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
-- [Nodejs 解读event loop的事件处理机制](https://www.jianshu.com/p/2a7ac1b3b382)
-- [Node.js 代码阅读笔记系列 — process.nextTick() 的实现](https://juejin.im/post/58dc8533b123db006037c68c)
-- [node，setImmeidate, setTimeout, nextTick你真的了解么？](https://hello2dj.github.io/2018/01/10/node%E5%AE%9A%E6%97%B6%E5%99%A8%E7%9B%B8%E5%85%B3%E8%AF%A6%E8%A7%A3/)
 
 -------
 
 ### webpack/babel
+- [webpack中文 ⭐️⭐️⭐️⭐️⭐️](https://webpack.docschina.org)
+- [babel官网 ⭐️⭐️⭐️⭐️⭐️](https://babeljs.io/)
+
+- [细说 webpack 之流程篇](http://taobaofed.org/blog/2016/09/09/webpack-flow/)
+- [contributors-guide](https://medium.com/webpack/contributors-guide/home)
+- [astexplorer](https://astexplorer.net/)
+- [玩转webpack（一）上篇：webpack的基本架构和构建流程](https://cloud.tencent.com/developer/article/1006353)
+- [Webpack 源码解析](https://github.com/lihongxun945/diving-into-webpack)
+- [Babel 手册](https://github.com/jamiebuilds/babel-handbook/tree/master/translations/zh-Hans)
+- [babael插件编写](https://www.cnblogs.com/chyingp/p/how-to-write-a-babel-plugin.html)
+- [diving-into-webpack](https://github.com/lihongxun945/diving-into-webpack)
 
 
 -------
@@ -35,21 +41,20 @@
 
 -------
 ### 算法
-
+- [记录前端开发中的技巧以及算法知识](https://github.com/louzhedong/blog)
+[minipack-explain](记录前端开发中的技巧以及算法知识)
 -------
 ### node
 
 -------
 ### git
-
+- [可视化，Git进阶 ⭐️⭐️⭐️⭐️⭐️](https://learngitbranching.js.org/)
+- [Git飞行规则 ⭐️⭐️⭐️⭐️⭐️](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
 -------
 ### 数据库
 
 -------
 ### typescript
-
--------
-### rxjs
 
 -------
 ### 常用库源码分析
@@ -58,6 +63,8 @@
 
 
 ### 服务端渲染
+- [React 中同构（SSR）原理脉络梳理](https://juejin.im/post/5bc7ea48e51d450e46289eab)
+
 
 -------
 
