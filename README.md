@@ -1,4 +1,10 @@
 ## javascript 知识备忘录
+### 基础知识
+- [mozilla文档 ⭐️⭐️⭐️⭐️⭐️](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+- [JavaScript深入系列 ⭐️⭐️⭐️⭐️](https://github.com/mqyqingfeng/Blog)
+
+-------
+
 ### 正则表达式
 
 - [强烈推荐老姚的正则表达式 ⭐️⭐️⭐️⭐️⭐️](https://juejin.im/post/5965943ff265da6c30653879)
