@@ -8,6 +8,7 @@
 ### 正则表达式
 
 - [强烈推荐老姚的正则表达式 ⭐️⭐️⭐️⭐️⭐️](https://juejin.im/post/5965943ff265da6c30653879)
+- [一次性搞懂JavaScript正则表达式之语法](https://juejin.im/post/5bda4e6fe51d45681f245274)
 -------
 
 ### 异步处理能力
@@ -35,7 +36,7 @@
 - [Babel 手册](https://github.com/jamiebuilds/babel-handbook/tree/master/translations/zh-Hans)
 - [babael插件编写](https://www.cnblogs.com/chyingp/p/how-to-write-a-babel-plugin.html)
 - [一些好的loader](https://github.com/lihongxun945/diving-into-webpack)
-
+- [撸一个webpack插件](https://juejin.im/post/5beb8875e51d455e5c4dd83f?utm_source=gold_browser_extension)
 
 -------
 
@@ -79,7 +80,12 @@
 ### 服务端渲染
 - [React 中同构（SSR）原理脉络梳理](https://juejin.im/post/5bc7ea48e51d450e46289eab)
 
+-------
 
+
+### 前端其他及优化
+- [美团网页首帧优化实践](https://juejin.im/post/5bee7dd4e51d451f5b54cbb4?utm_source=gold_browser_extension)
+- [实现移动端浏览器控制台](https://juejin.im/post/5bf278295188252e89668ed2?utm_source=gold_browser_extension)
 -------
 
 ### V8
