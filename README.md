@@ -91,6 +91,13 @@
 ### V8
 - [深入理解 V8 的 Call Stack](https://mp.weixin.qq.com/s?__biz=MzU0Nzk1MTg5OA==&mid=2247483967&idx=1&sn=b8282dc5a672df7345281ce67841cf0d&chksm=fb47c64acc304f5c5d1f1e140285dbff67a888f1dd0387b589002902ffeb26e59e550d0323e7&scene=21#wechat_redirect)
 
+-------
+### GO
+- [GO入门指南](https://www.kancloud.cn/kancloud/the-way-to-go/72432)
+- [build-web-application-with-golang ⭐️⭐️⭐️⭐️⭐️](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
+
+-------
+
 ```javascript
 console.log('main1');
 setTimeout(function() {
