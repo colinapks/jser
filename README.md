@@ -33,7 +33,6 @@
 - [astexplorer](https://astexplorer.net/)
 - [玩转webpack（一）上篇：webpack的基本架构和构建流程](https://cloud.tencent.com/developer/article/1006353)
 - [Webpack 源码解析](https://github.com/lihongxun945/diving-into-webpack)
-- [Babel 手册](https://github.com/jamiebuilds/babel-handbook/tree/master/translations/zh-Hans)
 - [babael插件编写](https://www.cnblogs.com/chyingp/p/how-to-write-a-babel-plugin.html)
 - [一些好的loader](https://github.com/lihongxun945/diving-into-webpack)
 - [撸一个webpack插件](https://juejin.im/post/5beb8875e51d455e5c4dd83f?utm_source=gold_browser_extension)
@@ -60,7 +59,12 @@
 [minipack-explain](记录前端开发中的技巧以及算法知识)
 -------
 ### node
+> 必学内容：stream
 
+- [nodejs中文API ⭐️⭐️⭐️⭐️⭐️](http://nodejs.cn/api/)
+- [如何通过饿了么 Node.js 面试 ⭐️⭐️⭐️⭐️⭐️](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
+- [Stream美团](https://tech.meituan.com/stream_basics.html)
+- [Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide)
 -------
 ### git
 - [可视化，Git进阶 ⭐️⭐️⭐️⭐️⭐️](https://learngitbranching.js.org/)
@@ -90,6 +94,13 @@
 
 ### V8
 - [深入理解 V8 的 Call Stack](https://mp.weixin.qq.com/s?__biz=MzU0Nzk1MTg5OA==&mid=2247483967&idx=1&sn=b8282dc5a672df7345281ce67841cf0d&chksm=fb47c64acc304f5c5d1f1e140285dbff67a888f1dd0387b589002902ffeb26e59e550d0323e7&scene=21#wechat_redirect)
+
+-------
+### GO
+- [GO入门指南](https://www.kancloud.cn/kancloud/the-way-to-go/72432)
+- [build-web-application-with-golang ⭐️⭐️⭐️⭐️⭐️](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
+
+-------
 
 ```javascript
 console.log('main1');
