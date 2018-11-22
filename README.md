@@ -28,6 +28,7 @@
 - [知乎babel ⭐️⭐️⭐️⭐️⭐️](https://www.zhihu.com/topic/20021403/hot)
 - [Babel 手册](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md)
 - [Babel 内部原理分析](https://octman.com/blog/2016-08-27-babel-notes/)
+- [AST 抽象语法树](http://jartto.wang/2018/11/17/about-ast/)
 - [细说 webpack 之流程篇](http://taobaofed.org/blog/2016/09/09/webpack-flow/)
 - [contributors-guide](https://medium.com/webpack/contributors-guide/home)
 - [astexplorer](https://astexplorer.net/)
@@ -42,6 +43,7 @@
 ### puppeteer
 - [puppeteer 中文](https://zhaoqize.github.io/puppeteer-api-zh_CN/#/?id=%E6%A6%82%E8%BF%B0)
 - [an answer to server-side rendering JS sites](https://developers.google.com/web/tools/puppeteer/articles/ssr)
+- [爬取《es6标准入门》](https://github.com/zhentaoo/puppeteer-deep)
 - [使用Puppeteer完成一次复杂的爬虫](https://zhuanlan.zhihu.com/p/35758104)
 - [puppeteer-examples](https://github.com/makelove/puppeteer-examples)
 - [开始使用GitLab CI/CD](https://segmentfault.com/a/1190000012989919)
@@ -63,8 +65,9 @@
 
 - [nodejs中文API ⭐️⭐️⭐️⭐️⭐️](http://nodejs.cn/api/)
 - [如何通过饿了么 Node.js 面试 ⭐️⭐️⭐️⭐️⭐️](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
-- [Stream美团](https://tech.meituan.com/stream_basics.html)
+- [Stream学习资料](https://github.com/zoubin/streamify-your-node-program)
 - [Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide)
+- [理解Node.js的流](http://weiheli.com/2018/02/%E7%90%86%E8%A7%A3Node-js%E7%9A%84%E6%B5%81/)
 -------
 ### git
 - [可视化，Git进阶 ⭐️⭐️⭐️⭐️⭐️](https://learngitbranching.js.org/)
@@ -90,6 +93,7 @@
 ### 前端其他及优化
 - [美团网页首帧优化实践](https://juejin.im/post/5bee7dd4e51d451f5b54cbb4?utm_source=gold_browser_extension)
 - [实现移动端浏览器控制台](https://juejin.im/post/5bf278295188252e89668ed2?utm_source=gold_browser_extension)
+- [打造你的专属 Chrome 插件](http://jartto.wang/2018/11/10/chrome-extensions-1/)
 -------
 
 ### V8
