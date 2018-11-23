@@ -2,6 +2,7 @@
 ### 基础知识
 - [mozilla文档 ⭐️⭐️⭐️⭐️⭐️](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - [JavaScript深入系列 ⭐️⭐️⭐️⭐️](https://github.com/mqyqingfeng/Blog)
+- [JavaScript开发者应懂的33个概念 ](https://github.com/stephentian/33-js-concepts)
 
 -------
 
@@ -23,6 +24,8 @@
 -------
 
 ### webpack/babel
+> 熟悉打包流程。会写loader、plugin
+
 - [webpack中文 ⭐️⭐️⭐️⭐️⭐️](https://webpack.docschina.org)
 - [babel官网 ⭐️⭐️⭐️⭐️⭐️](https://babeljs.io/)
 - [知乎babel ⭐️⭐️⭐️⭐️⭐️](https://www.zhihu.com/topic/20021403/hot)
@@ -48,7 +51,10 @@
 - [puppeteer-examples](https://github.com/makelove/puppeteer-examples)
 - [开始使用GitLab CI/CD](https://segmentfault.com/a/1190000012989919)
 - [Chrome 远程调试协议不完全指南](https://syang2forever.github.io/2018/01/30/Chrome%20%E8%BF%9C%E7%A8%8B%E8%B0%83%E8%AF%95%E5%8D%8F%E8%AE%AE%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97/)
-- [从零开始编写一个babel插件](https://juejin.im/post/5a17d51851882531b15b2dfc#heading-6)
+- [Puppeteer：模拟浏览器操作行为的利器](https://github.com/chenxiaochun/blog/issues/38)
+- [puppeteer-examples](https://github.com/checkly/puppeteer-examples)
+- [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer/blob/master/readme.zh.md)
+- [网站性能测试利器:Puppeteer](https://cloud.tencent.com/developer/article/1086109)
 -------
 ### docker
 
@@ -95,7 +101,8 @@
 - [实现移动端浏览器控制台](https://juejin.im/post/5bf278295188252e89668ed2?utm_source=gold_browser_extension)
 - [打造你的专属 Chrome 插件](http://jartto.wang/2018/11/10/chrome-extensions-1/)
 -------
-
+### electron
+[Electron 中文文档](http://electronjs.org/docs)
 ### V8
 - [深入理解 V8 的 Call Stack](https://mp.weixin.qq.com/s?__biz=MzU0Nzk1MTg5OA==&mid=2247483967&idx=1&sn=b8282dc5a672df7345281ce67841cf0d&chksm=fb47c64acc304f5c5d1f1e140285dbff67a888f1dd0387b589002902ffeb26e59e550d0323e7&scene=21#wechat_redirect)
 
