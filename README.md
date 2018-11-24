@@ -3,6 +3,8 @@
 - [mozilla文档 ⭐️⭐️⭐️⭐️⭐️](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - [JavaScript深入系列 ⭐️⭐️⭐️⭐️](https://github.com/mqyqingfeng/Blog)
 - [JavaScript开发者应懂的33个概念 ](https://github.com/stephentian/33-js-concepts)
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+- [JS 函数式编程指南中文版](https://github.com/llh911001/mostly-adequate-guide-chinese)
 
 -------
 
@@ -78,15 +80,14 @@
 ### git
 - [可视化，Git进阶 ⭐️⭐️⭐️⭐️⭐️](https://learngitbranching.js.org/)
 - [Git飞行规则 ⭐️⭐️⭐️⭐️⭐️](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
--------
-### 数据库
-
+- [一篇极好的Git 总结](https://zhuanlan.zhihu.com/p/50662531)
 -------
 ### typescript
 
 -------
 ### 常用库源码分析
-
+- [underscore中文API](http://www.bootcss.com/p/underscore/)
+- [老姚系列-underscore源码分析](https://www.qdfuns.com/u/17398/works/articles/id/cls_bb6dc3cabae6651b94f69bbd562ff370.html)
 -------
 
 
@@ -96,13 +97,16 @@
 -------
 
 
-### 前端其他及优化
+### 前端优化及其他
 - [美团网页首帧优化实践](https://juejin.im/post/5bee7dd4e51d451f5b54cbb4?utm_source=gold_browser_extension)
 - [实现移动端浏览器控制台](https://juejin.im/post/5bf278295188252e89668ed2?utm_source=gold_browser_extension)
 - [打造你的专属 Chrome 插件](http://jartto.wang/2018/11/10/chrome-extensions-1/)
 -------
 ### electron
-[Electron 中文文档](http://electronjs.org/docs)
+- [Electron 中文文档](http://electronjs.org/docs)
+
+-------
+
 ### V8
 - [深入理解 V8 的 Call Stack](https://mp.weixin.qq.com/s?__biz=MzU0Nzk1MTg5OA==&mid=2247483967&idx=1&sn=b8282dc5a672df7345281ce67841cf0d&chksm=fb47c64acc304f5c5d1f1e140285dbff67a888f1dd0387b589002902ffeb26e59e550d0323e7&scene=21#wechat_redirect)
 
