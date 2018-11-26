@@ -1,4 +1,7 @@
 ## javascript 知识备忘录
+https://umaar.com/dev-tips/182-typescript-async-await/
+https://github.com/ChromeDevTools/awesome-chrome-devtools
+https://developers.google.com/web/tools/chrome-devtools/javascript/
 ### 基础知识
 - [mozilla文档 ⭐️⭐️⭐️⭐️⭐️](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - [JavaScript深入系列 ⭐️⭐️⭐️⭐️](https://github.com/mqyqingfeng/Blog)
