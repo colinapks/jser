@@ -8,6 +8,7 @@ https://developers.google.com/web/tools/chrome-devtools/javascript/
 - [JavaScript开发者应懂的33个概念 ](https://github.com/stephentian/33-js-concepts)
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
 - [JS 函数式编程指南中文版](https://github.com/llh911001/mostly-adequate-guide-chinese)
+- [深入理解javascript原型和闭包](http://www.cnblogs.com/wangfupeng1988/p/3977924.html)
 
 -------
 
@@ -45,11 +46,12 @@ https://developers.google.com/web/tools/chrome-devtools/javascript/
 - [babael插件编写](https://www.cnblogs.com/chyingp/p/how-to-write-a-babel-plugin.html)
 - [一些好的loader](https://github.com/lihongxun945/diving-into-webpack)
 - [撸一个webpack插件](https://juejin.im/post/5beb8875e51d455e5c4dd83f?utm_source=gold_browser_extension)
+- [平庸前端码农之蜕变 — AST](https://juejin.im/post/5bfc21d2e51d4544313df666)
 
 -------
 
 ### puppeteer
-- [puppeteer 中文](https://zhaoqize.github.io/puppeteer-api-zh_CN/#/?id=%E6%A6%82%E8%BF%B0)
+- [puppeteer](https://pptr.dev/)
 - [an answer to server-side rendering JS sites](https://developers.google.com/web/tools/puppeteer/articles/ssr)
 - [爬取《es6标准入门》](https://github.com/zhentaoo/puppeteer-deep)
 - [使用Puppeteer完成一次复杂的爬虫](https://zhuanlan.zhihu.com/p/35758104)
@@ -67,6 +69,7 @@ https://developers.google.com/web/tools/chrome-devtools/javascript/
 ### 算法
 - [记录前端开发中的技巧以及算法知识](https://github.com/louzhedong/blog)
 [minipack-explain](记录前端开发中的技巧以及算法知识)
+- [leetcode 中文在线](https://leetcode-cn.com)
 -------
 ### node
 > 必学内容：stream
