@@ -61,10 +61,7 @@ https://developers.google.com/web/tools/chrome-devtools/javascript/
 - [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer/blob/master/readme.zh.md)
 - [网站性能测试利器:Puppeteer](https://cloud.tencent.com/developer/article/1086109)
 -------
-### docker
-
--------
-### nginx
+### 服务端
 
 -------
 ### 算法
@@ -94,7 +91,7 @@ https://developers.google.com/web/tools/chrome-devtools/javascript/
 -------
 
 
-### 服务端渲染
+### SSR
 - [React 中同构（SSR）原理脉络梳理](https://juejin.im/post/5bc7ea48e51d450e46289eab)
 
 -------
@@ -104,8 +101,14 @@ https://developers.google.com/web/tools/chrome-devtools/javascript/
 - [美团网页首帧优化实践](https://juejin.im/post/5bee7dd4e51d451f5b54cbb4?utm_source=gold_browser_extension)
 - [实现移动端浏览器控制台](https://juejin.im/post/5bf278295188252e89668ed2?utm_source=gold_browser_extension)
 - [打造你的专属 Chrome 插件](http://jartto.wang/2018/11/10/chrome-extensions-1/)
+- [高效的 GraphQL + Antd](https://lutaonan.com/blog/effective-graphql-and-antd/)
+- [React Conf 2018 ⭐️⭐️⭐️⭐️⭐️](https://www.bilibili.com/video/av34803724)
+- [functional programming in JavaScript 视频](https://www.bilibili.com/video/av15082742)
+- [前端的构建时优化 视频](https://www.bilibili.com/video/av35203391)
+- [技术胖 视频](https://space.bilibili.com/165659472?spm_id_from=333.788.b_765f7570696e666f.2)
+- [程序员必学电脑计算机专业英语词汇1700词 ⭐️⭐️⭐️⭐️⭐️](https://www.shanbay.com/wordbook/104791/)
 -------
-### electron
+### electron／flutter
 - [Electron 中文文档](http://electronjs.org/docs)
 
 -------
