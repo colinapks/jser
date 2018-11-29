@@ -1,7 +1,4 @@
 ## javascript 知识备忘录
-https://umaar.com/dev-tips/182-typescript-async-await/
-https://github.com/ChromeDevTools/awesome-chrome-devtools
-https://developers.google.com/web/tools/chrome-devtools/javascript/
 ### 基础知识
 - [mozilla文档 ⭐️⭐️⭐️⭐️⭐️](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - [JavaScript深入系列 ⭐️⭐️⭐️⭐️](https://github.com/mqyqingfeng/Blog)
@@ -47,6 +44,7 @@ https://developers.google.com/web/tools/chrome-devtools/javascript/
 - [一些好的loader](https://github.com/lihongxun945/diving-into-webpack)
 - [撸一个webpack插件](https://juejin.im/post/5beb8875e51d455e5c4dd83f?utm_source=gold_browser_extension)
 - [平庸前端码农之蜕变 — AST](https://juejin.im/post/5bfc21d2e51d4544313df666)
+- [透過製作 Babel-plugin 初訪 AST](https://blog.arvinh.info/2018/08/25/visit-ast-with-babel-plugin/)
 
 -------
 
