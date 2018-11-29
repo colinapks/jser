@@ -6,6 +6,7 @@
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
 - [JS 函数式编程指南中文版](https://github.com/llh911001/mostly-adequate-guide-chinese)
 - [深入理解javascript原型和闭包](http://www.cnblogs.com/wangfupeng1988/p/3977924.html)
+- [必学技能-断点调试 ⭐️⭐️⭐️⭐️](https://developers.google.com/web/tools/chrome-devtools/javascript/?hl=zh-cn)
 
 -------
 
@@ -50,6 +51,7 @@
 
 ### puppeteer
 - [puppeteer](https://pptr.dev/)
+- [google介绍视频 ⭐️⭐️⭐️⭐️⭐️](https://developers.google.com/web/tools/puppeteer/)
 - [an answer to server-side rendering JS sites](https://developers.google.com/web/tools/puppeteer/articles/ssr)
 - [爬取《es6标准入门》](https://github.com/zhentaoo/puppeteer-deep)
 - [使用Puppeteer完成一次复杂的爬虫](https://zhuanlan.zhihu.com/p/35758104)
