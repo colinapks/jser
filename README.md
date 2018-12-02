@@ -19,6 +19,8 @@
 ### 异步处理能力
 - [谷歌开发者文档-promise ⭐️⭐️⭐️⭐️⭐️](https://developers.google.com/web/fundamentals/primers/promises?hl=zh-cn)
 - [更快的 async 函数和 promises](https://juejin.im/post/5beea5f5f265da61590b40cd?utm_source=gold_browser_extension)
+- [Learn RxJS](https://www.learnrxjs.io/)
+- [rxjs动画演示](https://reactive.how/)
 
 -------
 
@@ -123,6 +125,9 @@
 ### GO
 - [GO入门指南](https://www.kancloud.cn/kancloud/the-way-to-go/72432)
 - [build-web-application-with-golang ⭐️⭐️⭐️⭐️⭐️](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
+- [Go 夜读⭐️⭐️⭐️⭐️⭐️](https://github.com/developer-learning/night-reading-go)
+- [Go 系列教程](https://studygolang.com/subject/2)
+- [Goroutine并发调度模型深入之实现一个协程池](https://mp.weixin.qq.com/s/K4CeE1BYuhalJIoN3PSe6A)
 
 -------
 
