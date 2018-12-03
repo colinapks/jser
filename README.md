@@ -48,6 +48,7 @@
 - [撸一个webpack插件](https://juejin.im/post/5beb8875e51d455e5c4dd83f?utm_source=gold_browser_extension)
 - [平庸前端码农之蜕变 — AST](https://juejin.im/post/5bfc21d2e51d4544313df666)
 - [透過製作 Babel-plugin 初訪 AST](https://blog.arvinh.info/2018/08/25/visit-ast-with-babel-plugin/)
+- [minipack-explain](记录前端开发中的技巧以及算法知识)
 
 -------
 
@@ -70,8 +71,9 @@
 -------
 ### 算法
 - [记录前端开发中的技巧以及算法知识](https://github.com/louzhedong/blog)
-[minipack-explain](记录前端开发中的技巧以及算法知识)
 - [leetcode 中文在线](https://leetcode-cn.com)
+- [数据结构和算法动态可视化](https://visualgo.net/zh)
+- [数据结构和算法](https://zhuanlan.zhihu.com/p/37470948)
 -------
 ### node
 > 必学内容：stream
@@ -112,6 +114,8 @@
 - [前端的构建时优化 视频](https://www.bilibili.com/video/av35203391)
 - [技术胖 视频](https://space.bilibili.com/165659472?spm_id_from=333.788.b_765f7570696e666f.2)
 - [程序员必学电脑计算机专业英语词汇1700词 ⭐️⭐️⭐️⭐️⭐️](https://www.shanbay.com/wordbook/104791/)
+- [一种自动化生成骨架屏的方案 ⭐️⭐️⭐️](https://github.com/Jocs/jocs.github.io/issues/22)
+- [骨架图 （待定）](https://github.com/Jocs/jocs.github.io/issues)
 -------
 ### electron／flutter
 - [Electron 中文文档](http://electronjs.org/docs)
