@@ -49,6 +49,7 @@
 - [平庸前端码农之蜕变 — AST](https://juejin.im/post/5bfc21d2e51d4544313df666)
 - [透過製作 Babel-plugin 初訪 AST](https://blog.arvinh.info/2018/08/25/visit-ast-with-babel-plugin/)
 - [minipack-explain](记录前端开发中的技巧以及算法知识)
+- [手把手教你撸一个 Webpack Loader](https://juejin.im/post/5a698a316fb9a01c9f5b9ca0)
 
 -------
 
@@ -74,6 +75,8 @@
 - [leetcode 中文在线](https://leetcode-cn.com)
 - [数据结构和算法动态可视化](https://visualgo.net/zh)
 - [数据结构和算法](https://zhuanlan.zhihu.com/p/37470948)
+- [algorithm-visualizer](https://algorithm-visualizer.org/)
+- [LeetCode题解](https://github.com/soulmachine/leetcode)
 -------
 ### node
 > 必学内容：stream
@@ -112,7 +115,6 @@
 - [React Conf 2018 ⭐️⭐️⭐️⭐️⭐️](https://www.bilibili.com/video/av34803724)
 - [functional programming in JavaScript 视频](https://www.bilibili.com/video/av15082742)
 - [前端的构建时优化 视频](https://www.bilibili.com/video/av35203391)
-- [技术胖 视频](https://space.bilibili.com/165659472?spm_id_from=333.788.b_765f7570696e666f.2)
 - [程序员必学电脑计算机专业英语词汇1700词 ⭐️⭐️⭐️⭐️⭐️](https://www.shanbay.com/wordbook/104791/)
 - [一种自动化生成骨架屏的方案 ⭐️⭐️⭐️](https://github.com/Jocs/jocs.github.io/issues/22)
 - [骨架图 （待定）](https://github.com/Jocs/jocs.github.io/issues)
@@ -125,6 +127,9 @@
 ### V8
 - [深入理解 V8 的 Call Stack](https://mp.weixin.qq.com/s?__biz=MzU0Nzk1MTg5OA==&mid=2247483967&idx=1&sn=b8282dc5a672df7345281ce67841cf0d&chksm=fb47c64acc304f5c5d1f1e140285dbff67a888f1dd0387b589002902ffeb26e59e550d0323e7&scene=21#wechat_redirect)
 
+-------
+### 知名周刊
+- [ES2049 Studio](https://zhuanlan.zhihu.com/es2049)
 -------
 ### GO
 - [GO入门指南](https://www.kancloud.cn/kancloud/the-way-to-go/72432)
