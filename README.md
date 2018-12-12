@@ -7,6 +7,8 @@
 - [JS 函数式编程指南中文版](https://github.com/llh911001/mostly-adequate-guide-chinese)
 - [深入理解javascript原型和闭包](http://www.cnblogs.com/wangfupeng1988/p/3977924.html)
 - [必学技能-断点调试 ⭐️⭐️⭐️⭐️](https://developers.google.com/web/tools/chrome-devtools/javascript/?hl=zh-cn)
+- [深入理解 TypeScript ⭐️⭐️⭐️⭐️⭐️](https://jkchao.github.io/typescript-book-chinese/)
+- [git-scm](https://git-scm.com/book/zh/v2)
 
 -------
 
@@ -49,6 +51,7 @@
 - [平庸前端码农之蜕变 — AST](https://juejin.im/post/5bfc21d2e51d4544313df666)
 - [透過製作 Babel-plugin 初訪 AST](https://blog.arvinh.info/2018/08/25/visit-ast-with-babel-plugin/)
 - [minipack-explain](记录前端开发中的技巧以及算法知识)
+- [手把手教你撸一个 Webpack Loader](https://juejin.im/post/5a698a316fb9a01c9f5b9ca0)
 
 -------
 
@@ -74,6 +77,8 @@
 - [leetcode 中文在线](https://leetcode-cn.com)
 - [数据结构和算法动态可视化](https://visualgo.net/zh)
 - [数据结构和算法](https://zhuanlan.zhihu.com/p/37470948)
+- [algorithm-visualizer](https://algorithm-visualizer.org/)
+- [LeetCode题解](https://github.com/soulmachine/leetcode)
 -------
 ### node
 > 必学内容：stream
@@ -88,8 +93,6 @@
 - [可视化，Git进阶 ⭐️⭐️⭐️⭐️⭐️](https://learngitbranching.js.org/)
 - [Git飞行规则 ⭐️⭐️⭐️⭐️⭐️](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
 - [一篇极好的Git 总结](https://zhuanlan.zhihu.com/p/50662531)
--------
-### typescript
 
 -------
 ### 常用库源码分析
@@ -112,7 +115,6 @@
 - [React Conf 2018 ⭐️⭐️⭐️⭐️⭐️](https://www.bilibili.com/video/av34803724)
 - [functional programming in JavaScript 视频](https://www.bilibili.com/video/av15082742)
 - [前端的构建时优化 视频](https://www.bilibili.com/video/av35203391)
-- [技术胖 视频](https://space.bilibili.com/165659472?spm_id_from=333.788.b_765f7570696e666f.2)
 - [程序员必学电脑计算机专业英语词汇1700词 ⭐️⭐️⭐️⭐️⭐️](https://www.shanbay.com/wordbook/104791/)
 - [一种自动化生成骨架屏的方案 ⭐️⭐️⭐️](https://github.com/Jocs/jocs.github.io/issues/22)
 - [骨架图 （待定）](https://github.com/Jocs/jocs.github.io/issues)
@@ -126,12 +128,16 @@
 - [深入理解 V8 的 Call Stack](https://mp.weixin.qq.com/s?__biz=MzU0Nzk1MTg5OA==&mid=2247483967&idx=1&sn=b8282dc5a672df7345281ce67841cf0d&chksm=fb47c64acc304f5c5d1f1e140285dbff67a888f1dd0387b589002902ffeb26e59e550d0323e7&scene=21#wechat_redirect)
 
 -------
+### 知名周刊
+- [ES2049 Studio](https://zhuanlan.zhihu.com/es2049)
+-------
 ### GO
 - [GO入门指南](https://www.kancloud.cn/kancloud/the-way-to-go/72432)
 - [build-web-application-with-golang ⭐️⭐️⭐️⭐️⭐️](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)
 - [Go 夜读⭐️⭐️⭐️⭐️⭐️](https://github.com/developer-learning/night-reading-go)
 - [Go 系列教程](https://studygolang.com/subject/2)
 - [Goroutine并发调度模型深入之实现一个协程池](https://mp.weixin.qq.com/s/K4CeE1BYuhalJIoN3PSe6A)
+- [go-example](https://books.studygolang.com/gobyexample/interfaces/)
 
 -------
 
