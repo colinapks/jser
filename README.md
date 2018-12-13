@@ -69,7 +69,7 @@
 - [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer/blob/master/readme.zh.md)
 - [网站性能测试利器:Puppeteer](https://cloud.tencent.com/developer/article/1086109)
 -------
-### 服务端
+### 数据库
 
 -------
 ### 算法
@@ -79,6 +79,7 @@
 - [数据结构和算法](https://zhuanlan.zhihu.com/p/37470948)
 - [algorithm-visualizer](https://algorithm-visualizer.org/)
 - [LeetCode题解](https://github.com/soulmachine/leetcode)
+- [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
 -------
 ### node
 > 必学内容：stream
