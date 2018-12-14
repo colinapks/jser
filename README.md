@@ -11,6 +11,8 @@
 - [必学技能-断点调试 ⭐️⭐️⭐️⭐️](https://developers.google.com/web/tools/chrome-devtools/javascript/?hl=zh-cn)
 - [深入理解 TypeScript ⭐️⭐️⭐️⭐️⭐️](https://jkchao.github.io/typescript-book-chinese/)
 - [git-scm](https://git-scm.com/book/zh/v2)
+- [git-recipes](https://github.com/geeeeeeeeek/git-recipes)
+- [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)
 
 ---
 
@@ -167,7 +169,7 @@
 - [Go 夜读 ⭐️⭐️⭐️⭐️⭐️](https://github.com/developer-learning/night-reading-go)
 - [Go 系列教程](https://studygolang.com/subject/2)
 - [Goroutine 并发调度模型深入之实现一个协程池](https://mp.weixin.qq.com/s/K4CeE1BYuhalJIoN3PSe6A)
-- [go-example](https://books.studygolang.com/gobyexample/interfaces/)
+- [go-example](https://gobyexample.xgwang.me/)
 
 ---
 
